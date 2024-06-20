@@ -1,0 +1,39 @@
+HELP.md
+target/
+.mvn/
+**/src/main/resources/META-INF/config/local.properties
+!.mvn/wrapper/maven-wrapper.jar
+!**/src/main/**
+!**/src/test/**
+bin/
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.settings/
+.springBeans
+.sts4-cache
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+*.class
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+build/
+
+### VS Code ###
+.vscode/
+
+#######MAC#######
+.DS_Store
