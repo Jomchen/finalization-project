@@ -13,7 +13,7 @@
     <groupId>org.finalization</groupId>
     <artifactId>project</artifactId>
     <packaging>jar</packaging>
-    <description>最终项目</description>
+    <description>FINAL PROJECT</description>
 
     <dependencies>
         <dependency>
